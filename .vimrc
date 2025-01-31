@@ -6,5 +6,5 @@
 :set smartcase
 syntax on
 
-autocmd FileType yaml setlocal ts=2 sw=2 expandtab
+autocmd FileType yaml setlocal ts=2 sw=2 expandtab nowrap
 autocmd FileType go setlocal ts=2 sw=2 noexpandtab
